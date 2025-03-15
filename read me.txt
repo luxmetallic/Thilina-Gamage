@@ -1,0 +1,58 @@
+Important nots
+
+** Please mind that you should not change any of the files name 
+** keep all the icons always in the folder 
+** picture size should be  W: 69.83 mm H: 82.25 mm   260 KB | When you export the pic as PNG the resolution must be medium (150 PPI)
+
+** Always make a copy from the file before you start.
+** Please don't change any code in the file Index.html and index.text you can only change the one I mentioned. 
+** If the file doesn't work, don't save it and start again from the original file.
+
+** GitHub is the free domain
+https://github.com/ is the free domain for the old Vcards 
+
+luxmetallic13@gmail.com   [ primary for the free domain  ] 
+Password: Luxmetallic13@gmail.com1234
+
+ Luxstoke@gmail.com    [ spare for the free domain ] 
+Password: Lux147258369
+
+
+
+** HOW TO START THE NEW VCARD:
+
+1.  Make a COPY of the file [ Business card ] and change the copy name to the customer name.
+2.  open the file > go to [ index.text ]
+3.  To change the card go to <Script> and start after it add the info that you want to appear when someone download the card,
+if you want to delete or add any thing you should delete or add for both [ function saveContact() ] AND [  var vCard = `BEGIN:VCARD ] 
+
+NOTE :  " ADD THE changable parts only ( where it's mention ADD at the 1st ) and change only the text
+keep all the marks ( " | , | ; | : | \ | > | < | { | } ) IF YOU DELETE ANY THE FILE WILL NOT WORK PROBABLY. "
+
+4.  To change the icon and the links " go the <body> <div> and add the links only in the mention place, 
+if you want to delete any icon you can delete the row.
+
+NOTE :  " ADD THE changable parts only ( where it's mention ADD at the 1st ) and change only the text
+keep all the marks ( " | , | ; | : | \ | > | < | { | } ) IF YOU DELETE ANY THE FILE WILL NOT WORK PROBABLY. "
+
+5.  after all the changes you should save 2 version 1- index.text   [ file > save as \ ctrl + shift + s ]
+                                                    2- index.html   [ file > save as \ ctrl + shift + s ]
+
+6.  go to the [ https://github.com/ ] sign in with the Luxmetalic13 email or the other spare email 
+7.  go to + mark or repository > new repository > Write the customer name in the field [ Repository name* ] > create Repository .
+8.  From the [ Quick setup — if you’ve done this kind of thing before ] > choose [  uploading an existing file ] .
+9.  Drag and drop the all the file [ icons pic, customer pic, index.txt and index.html ] in the specific aria > then commit changes.
+10. Go for sittings > pages > from Branch replace None to main > the save
+11. Go to Actions you will get the linkfrom the deploy or the pages
+12. Copy the link and you can send or use any where
+
+NOTE :  " PLEASE CHECK THE LINK AND THE SAVE FUNCTION IN DESKTOP AND THE PHONE [ IOS & ANDROID ]  "
+
+
+
+** for any changes in the future :  
+1. go the githup > Repositories > choose the Repository you want to edit > code > index.html > edit
+2. or you can add any new picture by upload new file [ you must delete the old one and upload the new one with the same name ]
+NOTE : IF ANY OF THE ICONE OR THE PICUTERS DIDN'T APPEAR CHECK THE NAME 1ST THEN THE SIZE AND THE RESOLUTION.
+
+ 
